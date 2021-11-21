@@ -46,5 +46,5 @@ Mohamed Bakr
 ## Acknowledgments
 * [Udacity](https://www.udacity.com/)
 * [FWD initiative powered by ITIDA](https://egfwd.com/)
-* my mentor Ahmed Ibrhim
+* my mentor Ahmed Ibrahim
 
